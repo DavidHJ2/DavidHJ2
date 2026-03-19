@@ -66,16 +66,6 @@ I focus on understanding the business first — then building the data infrastru
 - Visualización de datos efectiva – LinkedIn Learning
 
 ---
-
-## GitHub Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=DavidHJ2&show_icons=true&theme=radical&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidHJ2&layout=compact&theme=radical&hide_border=true" />
-</div>
-
----
-
 <div align="center">
 
 **Let's connect**
