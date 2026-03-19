@@ -1,18 +1,25 @@
-# Hi there, I'm DavidHJ2! 👋
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=800&color=10B981&center=true&vCenter=true&width=620&lines=Hey%2C+I'm+David+HJ;Backend+Developer;Frontend+with+React;Data+Analyst;Turning+data+into+decisions" alt="Typing SVG" /></a>
 
-## About Me
-I am passionate about web development and constantly exploring new technologies in this field. 
+<p><strong>Code. Analyze. Iterate.</strong></p> <p><i>Construyo sistemas, analizo datos y conecto los puntos intermedios.</i></p> <p> <img src="https://img.shields.io/badge/Backend-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Data-Analysis-10B981?style=for-the-badge" /> <img src="https://komarev.com/ghpvc/?username=DavidHJ2&label=Views&color=10b981&style=for-the-badge" /> </p> </div>
+Who am I
+I'm a developer with a dual focus: building backend systems that are clean, fast, and maintainable, and analyzing data to make those systems smarter. On the frontend, I use React to deliver interfaces that actually make sense to users.
 
-- 👀 I’m interested in creating responsive and user-friendly web applications.
-- 🌱 I’m currently learning more about advanced JavaScript and Python frameworks like React,VueJS and Django,FastAPI.
-- 💞️ I’m looking to collaborate on open-source web projects or anything related to full-stack development.
-- 📫 How to reach me: daavid314@protonmail.com
+I don't just write code — I ask why the system needs to exist, then build accordingly.
 
-Feel free to explore my repositories and projects to get an insight into my work and interests. Connect with me, and let's build something awesome together!
+Soy desarrollador con doble enfoque: construyo backends limpios y eficientes, y analizo datos para que esos sistemas sean más inteligentes. En el frontend uso React para crear interfaces que realmente tienen sentido para el usuario.
 
-Happy Coding! 🚀
+What I Work With
+Backend
+Frontend
+Data
+GitHub Stats
+<div align="center"> <img height="160" src="https://github-readme-stats.vercel.app/api?username=DavidHJ2&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidHJ2&layout=compact&theme=tokyonight&hide_border=true" /> </div>
+<div align="center">
+Let's connect
 
-<!---
-DavidHJ2/DavidHJ2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[
+
+Open to collaborations, freelance projects, and interesting problems.
+
+</div>
