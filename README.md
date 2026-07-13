@@ -1,12 +1,12 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=800&color=F59E0B&center=true&vCenter=true&width=680&lines=Hey%2C+I'm+David+Hurtado;Data+Analyst;Python+%7C+Power+BI+%7C+SQL;Turning+raw+data+into+decisions;From+Barranquilla%2C+Colombia" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=800&color=F59E0B&center=true&vCenter=true&width=680&lines=Hey%2C+I'm+David+Hurtado;Frontend+Developer;React+%7C+TypeScript+%7C+Astro;Building+clean%2C+scalable+interfaces;From+Barranquilla%2C+Colombia" alt="Typing SVG" /></a>
 
-<p><strong>Extract. Transform. Decide.</strong></p>
-<p><i>Convierto datos crudos en información accionable para que los negocios tomen mejores decisiones.</i></p>
+<p><strong>Design. Build. Optimize.</strong></p>
+<p><i>Convierto requerimientos de negocio en interfaces intuitivas, escalables y de alto rendimiento.</i></p>
 
 <p>
-  <img src="https://img.shields.io/badge/Focus-Data%20Analytics-F59E0B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Frontend%20Development-F59E0B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Based%20in-Barranquilla%2C%20CO-yellow?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Open%20to-Freelance%20%26%20Remote-10B981?style=for-the-badge" />
   <img src="https://komarev.com/ghpvc/?username=DavidHJ2&label=Views&color=F59E0B&style=for-the-badge" />
@@ -18,52 +18,55 @@
 
 ## Who am I
 
-Data Analyst with hands-on experience extracting, transforming, and visualizing information to drive business decisions. I've built dashboards that cut reporting time by **40%**, improved data quality by **30%**, and contributed to projects that boosted sales performance by up to **25%**.
+Ingeniero de Sistemas y desarrollador frontend especializado en React, TypeScript y Astro, enfocado en usabilidad, rendimiento y calidad del software. He construido PWAs, intranets corporativas y sitios multilenguaje, integrando APIs REST y aplicando principios de código limpio y mantenibilidad.
 
-I focus on understanding the business first — then building the data infrastructure that makes it smarter.
+Me interesa la adopción de nuevas tecnologías y el uso de IA para crear soluciones innovadoras.
 
-> *Analista de datos con experiencia real en proyectos que impactan el negocio. Me enfoco en entender el problema antes de escribir una sola línea de código o crear un dashboard.*
+> *Frontend developer con experiencia real transformando necesidades de negocio en interfaces intuitivas, dinámicas y responsivas.*
 
 ---
 
 ## Experience
 
-| Company | Role | Impact |
+| Company | Role | Highlights |
 |---|---|---|
-| **Fiverr** | Freelance Data Analyst | Dashboards & reports → +25% ventas, -20% tiempos |
-| **Marserv LTDA** | Data Analyst | Power BI → -40% tiempo de informes, +30% calidad de datos |
-| **Audacia** | Data Analyst | Pipeline de optimización de rutas → -25% tiempos de ejecución |
+| **Freelance** | Desarrollador Frontend (ene 2024 – presente) | React, Astro y TypeScript → soluciones a medida, componentes reutilizables, integración de APIs REST |
+| **AudacIA** | Desarrollador Frontend (abr 2025 – dic 2025) | PWA para análisis y gestión de rutas → interfaces modernas, componentes reutilizables con React |
+| **Marserv S.A.S** | Desarrollador Frontend (may 2024 – feb 2025) | Intranet corporativa (trámites marítimos) con React, TypeScript y Tailwind CSS |
 
 ---
 
 ## Tech Stack
 
-### Analysis & Visualization
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+### Core
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-### Python Libraries
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
-![Power Query](https://img.shields.io/badge/Power%20Query-F2C811?style=flat-square&logo=microsoft&logoColor=black)
+### Tools & Practices
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-F59E0B?style=flat-square)
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat-square)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
 
 ### Soft Skills
-![KPIs](https://img.shields.io/badge/KPI%20Definition-F59E0B?style=flat-square)
-![Storytelling](https://img.shields.io/badge/Data%20Storytelling-10B981?style=flat-square)
-![Insights](https://img.shields.io/badge/Business%20Insights-3B82F6?style=flat-square)
+![Clean Code](https://img.shields.io/badge/Clean%20Code-F59E0B?style=flat-square)
+![UI%2FUX](https://img.shields.io/badge/UI%2FUX-10B981?style=flat-square)
+![Problem%20Solving](https://img.shields.io/badge/Problem%20Solving-3B82F6?style=flat-square)
+![Debugging](https://img.shields.io/badge/Debugging-EF4444?style=flat-square)
 
 ---
 
-## Certifications
+## Education & Certifications
 
-- Google Data Analytics – Coursera
-- Power BI desde cero – Udemy
-- Python para análisis de datos (Pandas, Matplotlib) – Udemy
-- SQL for Data Analysis – Mode Analytics / Coursera
-- Análisis de Datos con Excel – Microsoft Learn
-- Visualización de datos efectiva – LinkedIn Learning
+- Ingeniería de Sistemas – Universidad Simón Bolívar, Barranquilla (2021–2025)
+- Técnico de Sistemas – SENA, Barranquilla (2019–2020)
+- Diplomado en Ingeniería del Software y Gestión de las TIC – Barranquilla, 2026
+- Semilleros de Investigación – Universidad Simón Bolívar, 2024
+- GitHub Copilot Fundamentals – Microsoft Learn
+- Responsive Web Design – freeCodeCamp
 
 ---
 <div align="center">
