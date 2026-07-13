@@ -74,6 +74,8 @@ Me interesa la adopción de nuevas tecnologías y el uso de IA para crear soluci
 **Let's connect**
 
 [![Email](https://img.shields.io/badge/draavi314s@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:draavi314s@gmail.com)
+
+
 *Disponible para proyectos freelance, colaboraciones y posiciones remotas.*
 
 </div>
