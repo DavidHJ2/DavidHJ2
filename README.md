@@ -18,7 +18,7 @@
 
 ## Who am I
 
-Ingeniero de Sistemas y desarrollador frontend especializado en React, TypeScript y Astro, enfocado en usabilidad, rendimiento y calidad del software. He construido PWAs, intranets corporativas y sitios multilenguaje, integrando APIs REST y aplicando principios de código limpio y mantenibilidad.
+Desarrollador frontend especializado en React, TypeScript y Astro, enfocado en usabilidad, rendimiento y calidad del software. He construido PWAs, intranets corporativas y sitios multilenguaje, integrando APIs REST y aplicando principios de código limpio y mantenibilidad.
 
 Me interesa la adopción de nuevas tecnologías y el uso de IA para crear soluciones innovadoras.
 
@@ -64,7 +64,6 @@ Me interesa la adopción de nuevas tecnologías y el uso de IA para crear soluci
 - Ingeniería de Sistemas – Universidad Simón Bolívar, Barranquilla (2021–2025)
 - Técnico de Sistemas – SENA, Barranquilla (2019–2020)
 - Diplomado en Ingeniería del Software y Gestión de las TIC – Barranquilla, 2026
-- Semilleros de Investigación – Universidad Simón Bolívar, 2024
 - GitHub Copilot Fundamentals – Microsoft Learn
 - Responsive Web Design – freeCodeCamp
 
